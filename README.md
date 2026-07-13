@@ -1,2 +1,3 @@
-# whatismarquee
-whatismarquee
+# What is <marquee>?
+
+My project that I 100% rushed in less than an hour just to get a floppy disk 🦬 is a quick website showing you what <marquee>, the HTML tag is. It lists what it is and even has a fun facts section! 
